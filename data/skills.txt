@@ -1,0 +1,41 @@
+java
+python
+c++
+javascript
+sql
+mysql
+mongodb
+spring
+spring boot
+hibernate
+html
+css
+react
+angular
+node.js
+rest
+api
+microservices
+docker
+kubernetes
+jenkins
+git
+linux
+aws
+azure
+ci/cd
+terraform
+machine learning
+deep learning
+nlp
+tensorflow
+pandas
+numpy
+scikit-learn
+data analysis
+tableau
+power bi
+junit
+maven
+agile
+android
